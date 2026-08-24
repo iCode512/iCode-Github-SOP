@@ -28,6 +28,8 @@ belt-sprint-project-student's initials-year
 Each project folder should have a descriptive name. Within that folder, each project should follow this basic structure:
 
 #Example
+
+```text 
 project-name/ 
 │ 
 ├── assets/ 
@@ -47,4 +49,4 @@ project-name/
 ├── README.md 
 ├── .gitignore 
 └── index.html
-
+```
