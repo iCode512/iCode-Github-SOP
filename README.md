@@ -8,13 +8,13 @@ Repositories should use the following format:
 
 belt-sprint-project-student's initials-year
 
-## Examples of this would be:
+### Examples of this would be:
 <ul>
  <li>Orange-belt-sprint-9-final-project-web-dev-portfolio-AB-26</li>
  <li>Green-belt-sprint-3-python-data-analysis-CD-26</li>
 </ul>
 
-## Guidelines:
+### Guidelines:
 <ul>
   <li> CHOOSE DESCRIPTIVE WORDS THAT REPRESENT YOUR PROJECT  </li>
   <li>Separate words with hyphens or underscore if necessary</li>
