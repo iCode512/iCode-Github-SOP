@@ -50,3 +50,7 @@ project-name/
 ├── .gitignore 
 └── index.html
 ```
+
+### File Naming Convention:
+
+
