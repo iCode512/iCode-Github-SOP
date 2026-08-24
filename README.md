@@ -156,3 +156,55 @@ Students should use a .gitignore file to exclude unnecessary files such as:
 </ul>
 
 Do not commit passwords, API keys, or other sensitive information.
+
+## 6. Commit Message Guidelines
+
+Students should commit frequently using clear, descriptive messages.
+
+Good examples
+
+<ul>
+<li>Add navigation bar</li>
+<li>Fix login validation</li>
+<li>Create homepage layout</li>
+<li>Update README</li>
+<li>Refactor API routes</li>
+</ul>
+
+Avoid
+
+<li>update</li>
+<li>stuff</li>
+<li>changes</li>
+<li>asdf</li>
+<li>final final</li>
+
+## 7. General Best Practices
+
+Students should:
+
+<ul>
+<li>Keep repositories focused on one project.</li>
+<li>Delete unused files before submitting.</li>
+<li>Remove duplicate images and unused assets.</li>
+<li>Avoid uploading ZIP files unless specifically instructed.</li>
+<li>Keep folder depth reasonable and easy to navigate.</li>
+<li>Use consistent indentation and formatting.</li>
+<li>Test the application before committing.</li>
+<li>Push changes regularly instead of waiting until the end of the project.</li>
+</ul>
+
+## 8. Instructor Expectations
+
+Instructors should verify that:
+
+<li>Repository names follow the naming convention.</li>
+<li>Folder structure is organized and consistent.</li>
+<li>Files use descriptive names.</li>
+<li>Images and assets are properly organized.</li>
+<li>A README.md is included.</li>
+<li>A .gitignore file is present when appropriate.</li>
+<li>Commit history shows meaningful progress.</li>
+<li>No unnecessary or temporary files are included.</li>
+
+Following these standards will create repositories that are clean, professional, and easier for both students and instructors to maintain throughout the course.
