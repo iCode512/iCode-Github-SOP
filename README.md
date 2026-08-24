@@ -10,8 +10,8 @@ belt-sprint-project-student's initials-year
 
 ## Examples of this would be:
 <ul>
- <lil>Orange-belt-sprint-9-final-project-web-dev-portfolio-AB-26</lil>
- <lil>Green-belt-sprint-3-python-data-analysis-CD-26</lil>
+ <li>Orange-belt-sprint-9-final-project-web-dev-portfolio-AB-26</li>
+ <li>Green-belt-sprint-3-python-data-analysis-CD-26</li>
 </ul>
 
 ## Guidelines:
