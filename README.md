@@ -6,7 +6,7 @@ To keep student GitHub repositories organized, easy to navigate, and simple to r
 ## Repository Naming Convention
 Repositories should use the following labeling format:
 
-belt-sprint-project-student's initials-year
+( belt-sprint-project-student's initials-year )
 
 ### Examples of this would be:
 <ul>
