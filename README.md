@@ -27,7 +27,7 @@ belt-sprint-project-student's initials-year
 
 Each project folder should have a descriptive name. Within that folder, each project should follow this basic structure:
 
-# Example
+### Example
 
 ```text 
 project-name/ 
