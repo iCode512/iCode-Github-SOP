@@ -53,4 +53,22 @@ project-name/
 
 ## 3. File Naming Convention:
 
+### Use lowercase letters
+
+Good
+<ul>
+ <li>about.html</li>
+ <li>styles.css</li>
+ <li>main.js</li>
+</ul>
+
+
+Avoid
+<ul>
+ <li>About.html</li>
+ <li>Main.JS</li>
+ <li>Styles.CSS</li>
+</ul>
+
+
 
