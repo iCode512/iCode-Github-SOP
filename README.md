@@ -13,10 +13,13 @@ belt-sprint-project-student's initials-year
 • Green-belt-sprint-3-python-data-analysis-CD-26
 
 ## Guidelines:
-• CHOOSE DESCRIPTIVE WORDS THAT REPRESENT YOUR PROJECT  
-• Separate words with hyphens or underscore if necessary
-• Do not use spaces
-• Avoid special characters
+<ul>
+  <li> CHOOSE DESCRIPTIVE WORDS THAT REPRESENT YOUR PROJECT  </li>
+  <li>Separate words with hyphens or underscore if necessary</li>
+  <li>Do not use spaces</li>
+  <li>Void special characters</li>
+</ul>
+
 
 ## Required Folder Structure
 
