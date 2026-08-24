@@ -4,7 +4,7 @@
 To keep student GitHub repositories organized, easy to navigate, and simple to review. All instructors are required to instruct students to follow the folder structure and naming conventions outlined below.
 
 ## Repository Naming Convention
-Repositories should use the following format:
+Repositories should use the following labeling format:
 
 belt-sprint-project-student's initials-year
 
