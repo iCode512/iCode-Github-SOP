@@ -70,5 +70,39 @@ Avoid
  <li>Styles.CSS</li>
 </ul>
 
+### Separate words with hyphens
 
+Good
+
+<ul>
+ <li>contact-form.js</li>
+<li>student-profile.html</li>
+<li>landing-page.css</li>
+</ul>
+
+
+Avoid
+<ul>
+ <li>contactForm.js</li>
+ <li>Student Profile.html</li>
+</ul>
+
+### Keep names descriptive
+
+Good
+
+<ul>
+ <li>login.js</li>
+ <li>dashboard.css</li>
+ <li>profile-card.js</li>
+</ul>
+
+
+Avoid
+
+<ul>
+ <li>file1.js</li>
+<li>new.js</li>
+<li>temp.css</li>
+</ul>
 
