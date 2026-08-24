@@ -127,8 +127,7 @@ Avoid
 <li>screenshot-8.23.26 at 3:48.46PM.png</li>
 </ul>
 
-## 4. Documentation
-
+## 4. Documentation 
 Every repository should include a README.md containing:
 
 <ul>
@@ -144,8 +143,6 @@ Every repository should include a README.md containing:
 </ul>
 
 ## 5. Files That Should Not Be Committed
-
-Students should use a .gitignore file to exclude unnecessary files such as:
 
 <ul>
 <li>node_modules/</li>
