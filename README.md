@@ -106,3 +106,53 @@ Avoid
 <li>temp.css</li>
 </ul>
 
+### Image Naming
+
+Use descriptive names:
+
+Good
+<ul>
+ <li>hero-image.jpg</li>
+<li>student-photo.png</li>
+<li>logo.svg</li>
+</ul>
+
+
+Avoid
+
+<ul>
+ <li>IMG1234.jpg</li>
+<li>image.png</li>
+<li>photo-final-final.png</li>
+<li>screenshot-8.23.26 at 3:48.46PM.png</li>
+</ul>
+
+## 4. Documentation
+
+Every repository should include a README.md containing:
+
+<ul>
+<li>Project title</li>
+<li>Project description</li>
+<li>Technologies used</li>
+<li>Installation instructions (if applicable)</li>
+<li>How to run the project</li>
+<li>Screenshots (optional)</li>
+<li>What was learned </li>
+<li>What could be improved</li>
+<li>Follow ups</li> 
+</ul>
+
+## 5. Files That Should Not Be Committed
+
+Students should use a .gitignore file to exclude unnecessary files such as:
+
+<ul>
+<li>node_modules/</li>
+<li>.env</li>
+<li>.DS_Store</li>
+<li>dist/</li>
+<li>build/</li>
+</ul>
+
+Do not commit passwords, API keys, or other sensitive information.
