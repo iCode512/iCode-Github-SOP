@@ -172,12 +172,13 @@ Good examples
 </ul>
 
 Avoid
-
+<ul>
 <li>update</li>
 <li>stuff</li>
 <li>changes</li>
 <li>asdf</li>
 <li>final final</li>
+</ul>
 
 ## 7. General Best Practices
 
@@ -198,6 +199,7 @@ Students should:
 
 Instructors should verify that:
 
+<ul>
 <li>Repository names follow the naming convention.</li>
 <li>Folder structure is organized and consistent.</li>
 <li>Files use descriptive names.</li>
@@ -206,5 +208,6 @@ Instructors should verify that:
 <li>A .gitignore file is present when appropriate.</li>
 <li>Commit history shows meaningful progress.</li>
 <li>No unnecessary or temporary files are included.</li>
+</ul>
 
 Following these standards will create repositories that are clean, professional, and easier for both students and instructors to maintain throughout the course.
